@@ -1,10 +1,8 @@
-# Developing a decentralized E-voting Protocol which is described on the following paper.
-To understand the protocol details please read the paper carefully. 
-To run, every voter needs an account on the ethereum network (we have hauched it on the Testnet network)
-It's easy and simple just follow the instruction.
+# This repo is dedicated to developing a decentralized E-voting Protocol based on the following paper:
 
+$\mathbb{Titile}$: A rigorous security analysis of a decentralized electronic voting protocol in the universal composability framework.
 
-Compile  contracts using Remixide, then deploy them on the test network.
-After deploying each contract, it provides a contract address.
+$\mathcal{link:}$$\href{https://www.sciencedirect.com/science/article/abs/pii/S221421261830231X}$
  
+
 
